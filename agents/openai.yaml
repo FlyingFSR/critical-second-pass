@@ -1,0 +1,4 @@
+interface:
+  display_name: "Critical Second Pass"
+  short_description: "Pressure-test plans, drafts, and changes"
+  default_prompt: "Use $critical-second-pass to pressure-test this proposal before we decide what to change."
