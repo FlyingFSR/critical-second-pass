@@ -59,3 +59,13 @@ The skill has three deliberately sharp behaviors:
 
 That last point matters. A second pass is useful only if it is allowed to
 converge instead of inventing issues to justify itself.
+
+## Related projects
+
+Other open-source tools by the same author:
+
+- [conversation-archive](https://github.com/FlyingFSR/conversation-archive) — a
+  skill for AI assistants that turns conversations into structured archives that
+  keep their texture, not just their text.
+- [Friday](https://github.com/FlyingFSR/friday) — local-first, on-device voice
+  input for macOS (whisper.cpp, no cloud).
